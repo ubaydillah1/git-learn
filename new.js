@@ -1,3 +1,1 @@
-
-
-console.log("HELL NAH")
+console.log("HELL NAH");
